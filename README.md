@@ -1,7 +1,7 @@
 # GAME_PROGRAM-EX--7
 
-# NAME: JAIAKASH J
-# REG NO: 212225240055
+# NAME: JAYENTHAN R
+# REG NO: 212225240057
 
 ## To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases
 the player when they come within a certain range, using Behavior Trees, Blackboard, and AI
